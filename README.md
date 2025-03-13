@@ -37,7 +37,7 @@ This project is licensed under the **MIT License**.
 
 ## 🌐 Demo
 💻 View the **GO GREEN** template live in your browser.  
-🔗 [Live Demo](https://LakshmiPriyaRajaram/github.io.Web-development-company-website)
+🔗 [Live Demo](https://lakshmipriyarajaram.github.io/Web-development-company-website)
 
 Build your professional online presence today! 🌿🚀
 
